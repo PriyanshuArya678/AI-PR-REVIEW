@@ -1,0 +1,19 @@
+{
+  "action": "opened",
+  "number": 42,
+  "pull_request": {
+    "number": 42,
+    "title": "Add OAuth login",
+    "body": "This PR adds Google OAuth login to the app.",
+    "state": "open",
+    "head": { "sha": "f3a9c2d1e0b7a6c5d4e3f2a1b0c9d8e7f6a5b4c3", "ref": "feature/login" },
+    "base": { "ref": "main" },
+    "user": { "login": "priyanshu" }
+  },
+  "repository": {
+    "full_name": "priyanshu/test-repo",
+    "name": "test-repo",
+    "owner": { "login": "priyanshu" }
+  },
+  "sender": { "login": "priyanshu" }
+}
